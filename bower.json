@@ -1,0 +1,25 @@
+{
+  "name": "crypt-md5",
+  "version": "2.2",
+  "authors": [
+    "Paul Johnston"
+  ],
+  "description": "A JavaScript implementation of the RSA Data Security, Inc. MD5 Message Digest Algorithm, as defined in RFC 1321.",
+  "main": "md5.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "md5",
+    "crypto"
+  ],
+  "license": "BSD",
+  "homepage": "http://pajhome.org.uk/crypt/md5",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
